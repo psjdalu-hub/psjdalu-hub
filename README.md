@@ -6,14 +6,13 @@ I'm a passionate developer focused on creating clean, impactful digital experien
 - 🚀 Currently working on sharpening my frontend and backend engineering skills.
 - 🎨 Interested in interactive digital design, creative coding, and sleek UI aesthetics.
 - 💬 Ask me about anything code or design related—always happy to collaborate!
-- 📫 How to reach me: [Your Email/LinkedIn Link]
+- 📫 How to reach me: psjdalu@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** HTML5, CSS3, JavaScript, [Add languages like Python/Java/C++ here]
-* **Frameworks & Libraries:** [Add frameworks like React, Node.js, etc.]
-* **Tools & Design:** Git, GitHub, VS Code, [Add design tools like Figma/Blender here]
+* **Languages:** HTML5, CSS, JavaScript, Next.js 
+* **Tools & Design:** Git, GitHub, VS Code, 
 
 ---
 
