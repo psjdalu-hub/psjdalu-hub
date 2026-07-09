@@ -1,4 +1,4 @@
-# Hi there, I'm psjdalu-hub! 👋
+# Hi there, I'm Dalushan! 👋
 
 ### 💫 About Me
 I'm a passionate developer focused on creating clean, impactful digital experiences. I love diving into complex creative logic, building unique visual solutions, and continuously expanding my technical toolkit.
